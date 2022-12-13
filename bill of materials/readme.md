@@ -1,12 +1,6 @@
 ## bill of materials
 <br />
 
-|volgnummer|naam|omschrijving|nieuw/recup|kostprijs/stuk|aantal|subtotaal|
-|----------|----|------------|-----------|--------------|------|---------|
-|         1|    |            |           |              |      |         |
-|         2|    |            |           |              |      |         |
-|         3|    |            |           |              |      |         |
-|         4|    |            |           |              |      |         |
-|         5|    |            |           |              |      |         |
-|         6|    |            |           |              |      |         |
-
+|volgnummer|naam                |omschrijving                   |nieuw/recup|kostprijs/stuk|aantal|subtotaal       |
+|----------|--------------------|-------------------------------|-----------|--------------|------|----------------|
+|         1|Nitecore UI2        |Batterij oplader               |           |              |      |                |
