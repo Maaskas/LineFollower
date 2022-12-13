@@ -16,4 +16,10 @@
 |        11|TB6612FNG           |Motor Driver                    |nieuw      |16,05         |1     |16,05            |
 |        12|W420 Universeel wiel|Voorwiel robot                  |nieuw      |1,60          |1     |1,60             |
 |        13|Pololu Wheel 40x7mm |Achterwiel robot                |nieuw      |5,15          |2     |5,15             |
-|        14|TS 7805             |Voltage Regulator               |nieuw      |0,85          |1     |0,85            |
+|        14|TS 7805             |Voltage Regulator               |nieuw      |0,85          |1     |0,85             |
+|        15|Weerstand 220 Ohm   |                                |nieuw      |0,43          |1     |0,86             |
+|        16|LED Rood            |                                |nieuw      |0,66          |1     |0,66             |
+|        17|LED Groen           |                                |nieuw      |0,66          |1     |0,66             |
+|        18|Toggle Switch       |                                |nieuw      |2,30          |2     |4,60             |
+|        19|Condensator 0,1µF   |                                |nieuw      |0,39          |1     |1,39             |
+|        20|Condensator 0,33µF  |                                |nieuw      |0,89          |1     |0,89             |
