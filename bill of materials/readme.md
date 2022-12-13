@@ -3,4 +3,4 @@
 
 |volgnummer|naam                |omschrijving                   |nieuw/recup|kostprijs/stuk|aantal|subtotaal       |
 |----------|--------------------|-------------------------------|-----------|--------------|------|----------------|
-|         1|Nitecore UI2        |Batterij oplader               |           |              |      |                |
+|         1|Nitecore UI2        |Batterij oplader               |  testen als dit werkt         |              |      |                |
